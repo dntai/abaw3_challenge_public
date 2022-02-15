@@ -1,0 +1,17 @@
+# common file
+*.py[cod]
+
+# common folder
+__pycache__/
+.*/
+temps/
+
+# project
+/data/exps/
+/data/logs/
+/tests/
+
+# exception
+!.keep
+!.gitignore
+```
